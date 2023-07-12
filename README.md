@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Rnoma18
-- 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning Software Engineering & FrontEnd Development
+- 👋 Hi, I’m @RaneemAlowide
+- 👀 I’m interested in FullStack Development , UI/UX
+- 🌱 I’m currently learning FrontEnd web Development and mobile devlpoment
+- 🌱 I’m currently a Software Engineering 
 - 📫 How to reach me on my twitter acc : @R_287r
 
 <!---
